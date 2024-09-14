@@ -26,7 +26,13 @@ function Home() {
           Apply Here
         </ButtonA>
         <p className='recruit-desc'>
-          For general recruiting, join our mailing list and Slack workspace and stay tuned for updates.
+          To join the team, fill out the interest form below.
+        </p>
+        <ButtonA href="https://docs.google.com/forms/d/e/1FAIpQLSfN8Tv9NrbjyPe7EeENNSPOVc_t7yRzIyngJbnfa8SXe9wqqg/viewform?usp=sf_link" className="interest-form-button">
+          Interest Form
+        </ButtonA>
+        <p className='recruit-desc'>
+          Meeting times are TBD, so join our mailing list and Slack workspace for updates.
         </p>
         <div className='join-button-container'>
           <ButtonA href="https://join.slack.com/t/columbiaurobotics/shared_invite/zt-2pfhr79hx-6raBzG7IiA3NK2i1e0k8Xw" className="slack-button">
